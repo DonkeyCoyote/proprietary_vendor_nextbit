@@ -21,12 +21,12 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     com.quicinc.wbcserviceapp \
     datastatusnotification \
-    dpmserviceapp \
+#    dpmserviceapp \
     fastdormancy \
-    ims \
-    imssettings \
-    QtiTelephonyService \
-    QtiTetherService \
+#    ims \
+#    imssettings \
+#    QtiTelephonyService \
+#    QtiTetherService \
     shutdownlistener \
     TimeService
 
